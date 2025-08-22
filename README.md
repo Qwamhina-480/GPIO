@@ -1,1 +1,3 @@
 # GPIO
+To install gpiozero:
+
